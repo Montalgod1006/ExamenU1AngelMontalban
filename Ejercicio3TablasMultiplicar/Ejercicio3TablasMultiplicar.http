@@ -1,0 +1,6 @@
+@Ejercicio3TablasMultiplicar_HostAddress = http://localhost:5116
+
+GET {{Ejercicio3TablasMultiplicar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

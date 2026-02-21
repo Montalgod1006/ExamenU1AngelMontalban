@@ -1,0 +1,6 @@
+@Ejercicio2ValidarContraseña_HostAddress = http://localhost:5207
+
+GET {{Ejercicio2ValidarContraseña_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
